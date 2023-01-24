@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include ('./partials/head.ejs') %> 
+<body>
+    <div class="alert alert-danger" role="alert">
+        <h4 class="alert-heading">Oh no!</h4>
+        <p>Ocurrio un error al ejecutar el pago. No te preocupes, estamos trabajando en ello. Mientras tanto puedes seguir viendo los productos.</p>
+        <hr>
+        <p class="mb-0">Puedes intentar de nuevo o comunicate con nosotros<b id="link-mail"> <a href="/support"> Soporte</a> <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></b>
+        </p>
+        
+    </div>
+
+    <form action="/" method="get">
+        <button type="submit" id="vaciocart"><i class="fa-sharp fa-solid fa-arrow-left"></i>  Volver a la tienda</button>
+    </form>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>

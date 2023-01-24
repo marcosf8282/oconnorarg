@@ -1,0 +1,86 @@
+[
+    {   
+        "id": 1,
+        "name": "Buzo Champion Amarillo",
+        "price": 9990.12,
+        "image": "buzo champion.png"
+    },
+    {
+        "id": 2,
+        "name": "Buzo Champion Bordo",
+        "price": 9990.15,
+        "image": "buzo2.png"
+    },
+    {
+        "id": 3,
+        "name": "Buzo Champion Naranja",
+        "price": 9990.18,
+        "image": "buzo3.png"
+    },
+    {
+        "id": 4,
+        "name": "Buzo Hollister Gris",
+        "price": 8990.15,
+        "image": "buzo4.png"
+    },
+    {
+        "id": 5,
+        "name": "Buzo Hollister Blanco",
+        "price": 8990.32,
+        "image": "buzo5.png"
+    },
+    {
+        "id": 6,
+        "name": "Buzo Hollister Rosa",
+        "price": 8990.82,
+        "image": "buzo6.png"
+    },
+    {
+        "id": 7,
+        "name": "Remera Calvin Klein Azul",
+        "price": 3490.32,
+        "image": "remera1.png"
+    },
+    {
+        "id": 8,
+        "name": "Remera Calvin Klein Verde",
+        "price": 3490.30,
+        "image": "remera2.png"
+    },
+    {
+        "id": 9,
+        "name": "Remera Calvin Klein blanca",
+        "price": 3490.15,
+        "image": "remera3.png"
+    },{
+        "id": 10,
+        "name": "Remera penguing Blanca",
+        "price": 4300.15,
+        "image": "remera4.png"
+    },{
+        "id": 11,
+        "name": "Remera Penguin Azul",
+        "price": 4300.13,
+        "image": "remera5.png"
+    },{
+        "id": 12,
+        "name": "Remera Penguin Gris",
+        "price": 4300.11,
+        "image": "remera6.png"
+    },{
+        "id": 13,
+        "name": "Remera Tommy Hilgfiger verde",
+        "price": 5000.15,
+        "image": "remera7.png"
+    },{
+        "id": 14,
+        "name": "Remera Tommy Hilgfiger azul",
+        "price": 5000.11,
+        "image": "remera8.png"
+    },{
+        "id": 15,
+        "name": "Remera Tommy Hilgfiger blanca",
+        "price": 5000.12,
+        "image": "remera9.png"
+    }
+]

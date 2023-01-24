@@ -1,0 +1,13 @@
+<li>
+    <h2> <%= name %> </h2>
+    <h2  value="<%= quantity %>" id="quantity">Cantidad: <%= quantity %> </h2>
+
+    <h2 class="price"> Precio: $<%= price  %></h2>
+
+    <form action="/cart/delete" method="post" class="delete">
+        <input type="hidden" name="id" value="<%= id%>" />
+        <button type="submit" id="borrar">
+            <i class="fa-solid fa-times"></i>
+        </button>
+    </form>
+</li>
